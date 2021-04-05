@@ -1,5 +1,5 @@
-# 일정관리 앱 Famo-server
-### Famo앱 개발에 사용된 백엔드 관련 Repository 입니다.
+# Instagram 클론코딩
+### Instagram 클론코딩 사용된 백엔드 관련 Repository 입니다.
 ---
 ## 팀원
 
